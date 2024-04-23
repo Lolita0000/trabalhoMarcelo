@@ -1,22 +1,27 @@
-Formato dos dados:
+Sobre o Projeto
+Este é um programa encantador que foi desenvolvido para ajudar na análise das notas dos alunos de uma universidade. 📚✨
 
-No arquivo DadosEntrada.cvs, cada linha contém o nome, o telefone (com prefixo), o curso, e as notas que cada um dos alunos matriculados em uma universidade obteve durante um semestre. 
-No exemplo a seguir, observe que os atributos da aluna Maria Oliveira são (555) 123-4567, Direito, 9.0 e 9.3 e estão separados por vírgula:
+Formato dos Dados
+Os dados dos alunos estão armazenados no arquivo DadosEntrada.csv. Cada linha deste arquivo contém informações preciosas, como o nome, o telefone (com prefixo), o curso e as notas que cada aluno obteve durante um semestre. Por exemplo, a linha referente à aluna Maria Oliveira é assim:
 
+scss
+Copy code
 Maria Oliveira,(555) 123-4567,Direito,9.0,9.3
+Perceba como cada atributo, desde o nome até as notas, é separado por vírgulas, como se fossem grãos de magia em um campo de estrelas. ✨
 
+Funcionalidades
+Este programa, cheio de doçura, realiza algumas tarefas mágicas:
 
+Leitura dos Dados: Ele lê os dados de cada aluno, identificando o nome e suas notas.
+Cálculo da Média e Situação: Em seguida, calcula a média das notas e determina se o aluno está APROVADO ou REPROVADO, conforme sua média.
+Geração do Arquivo de Saída: Por fim, ele cria um arquivo chamado SituacaoFinal.csv, onde cada linha contém o nome do aluno, a média com duas casas decimais e sua situação.
+Por exemplo, para a querida aluna Maria Oliveira, o arquivo de saída terá esta linha:
 
-O que deve ser feito:
-
-O programa a ser construído deve ler dados de cada aluno, identificando o nome e as notas para, a seguir, 
-determinar a nota média e a situação final do aluno (APROVADO, caso a nota média seja maior ou igual a 7.0 ou REPROVADO, 
-caso a nota média seja menor do que 7.0). 
-
-Por fim, deve ser gerado um arquivo chamado SituacaoFinal.cvs em que cada linha deverá ter o nome do aluno, a nota média 
-com duas casas decimais e a situação do aluno. Por exemplo, para a aluna Maria Oliveira, cujas notas foram 9.0 e 9.3, 
-deverá ser gravado no arquivo de saída:
-
+Copy code
 Maria Oliveira, 9.15, APROVADO
+Nota
+"Na minha máquina funciona!" - Ah, esse é o mantra de todo desenvolvedor! Esperamos que esta pequena obra de arte funcione igualmente bem em sua máquina. Se precisar de ajuda ou se quiser espalhar um pouco mais de fofura pelo mundo, fique à vontade para nos contatar.
 
-NA MINHA MÁQUINA FUNCIONA!!!!!!!!
+Divirta-se analisando notas com este pequeno e fofinho programa! 🌟
+
+(professor, queriamos um read me fofinho, foi o melhor feito).
