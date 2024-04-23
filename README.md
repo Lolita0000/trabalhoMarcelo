@@ -18,3 +18,5 @@ com duas casas decimais e a situação do aluno. Por exemplo, para a aluna Maria
 deverá ser gravado no arquivo de saída:
 
 Maria Oliveira, 9.15, APROVADO
+
+NA MINHA MÁQUINA FUNCIONA!!!!!!!!
